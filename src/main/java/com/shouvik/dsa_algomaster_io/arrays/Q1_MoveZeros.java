@@ -2,7 +2,7 @@ package com.shouvik.dsa_algomaster_io.arrays;
 
 import java.util.Arrays;
 
-public class MoveZeros {
+public class Q1_MoveZeros {
     public static void moveZeroes_approach1(int[] nums) {
 
         /*Time Complexity: O(n). We iterate through the array twice: once to collect non-zeroes and once to copy back. Both passes are O(n), so the total is O(n).
