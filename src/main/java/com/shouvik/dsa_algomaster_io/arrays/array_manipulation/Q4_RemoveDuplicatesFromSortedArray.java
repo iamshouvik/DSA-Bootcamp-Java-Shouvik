@@ -1,4 +1,4 @@
-package com.shouvik.dsa_algomaster_io.arrays;
+package com.shouvik.dsa_algomaster_io.arrays.array_manipulation;
 
 import java.util.*;
 

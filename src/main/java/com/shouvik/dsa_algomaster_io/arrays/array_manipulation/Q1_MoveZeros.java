@@ -1,4 +1,4 @@
-package com.shouvik.dsa_algomaster_io.arrays;
+package com.shouvik.dsa_algomaster_io.arrays.array_manipulation;
 
 import java.util.Arrays;
 
@@ -25,7 +25,7 @@ public class Q1_MoveZeros {
             nums[i] = arr[i];
         }
 
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(nums));
     }
 
     public static void moveZeroes_approach2(int[] nums) {
@@ -73,6 +73,6 @@ public class Q1_MoveZeros {
 
     public static void main(String[] args) {
         int nums[] = {0, 1, 0, 3, 12};
-        moveZeroes_approach3(nums);
+        moveZeroes_approach1(nums);
     }
 }
