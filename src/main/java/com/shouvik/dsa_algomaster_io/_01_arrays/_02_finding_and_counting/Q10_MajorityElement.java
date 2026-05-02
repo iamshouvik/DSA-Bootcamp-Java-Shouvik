@@ -1,10 +1,10 @@
-package com.shouvik.dsa_algomaster_io.arrays.finding_and_counting;
+package com.shouvik.dsa_algomaster_io._01_arrays._02_finding_and_counting;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Q11_MajorityElementII {
+public class Q10_MajorityElement {
 
     public static int majorityElement_approach1(int[] nums) {
         int threshold = nums.length / 2;

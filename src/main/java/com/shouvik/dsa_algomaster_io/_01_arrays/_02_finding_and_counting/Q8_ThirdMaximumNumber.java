@@ -1,10 +1,8 @@
-package com.shouvik.dsa_algomaster_io.arrays.finding_and_counting;
+package com.shouvik.dsa_algomaster_io._01_arrays._02_finding_and_counting;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
-public class Q8_ThirdmaximumNumber {
+public class Q8_ThirdMaximumNumber {
     public static int thirdMax_approach1(int[] nums) {
         /*Time Complexity: O(n log n). Sorting dominates. The subsequent linear scan is O(n), but sorting takes O(n log n).
           Space Complexity: O(1) to O(n). Depends on the sorting implementation. In-place sorts use O(log n) stack space, while some languages allocate O(n).*/

@@ -1,4 +1,4 @@
-package com.shouvik.dsa_algomaster_io.arrays.array_manipulation;
+package com.shouvik.dsa_algomaster_io._01_arrays._01_array_manipulation;
 
 public class Q5_RemoveDuplicatesFromSortedArrayII {
     public static int removeDuplicates_approach1(int[] nums) {

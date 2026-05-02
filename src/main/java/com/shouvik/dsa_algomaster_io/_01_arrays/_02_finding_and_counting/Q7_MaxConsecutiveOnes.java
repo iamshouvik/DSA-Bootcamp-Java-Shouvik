@@ -1,4 +1,4 @@
-package com.shouvik.dsa_algomaster_io.arrays.finding_and_counting;
+package com.shouvik.dsa_algomaster_io._01_arrays._02_finding_and_counting;
 
 public class Q7_MaxConsecutiveOnes {
 
